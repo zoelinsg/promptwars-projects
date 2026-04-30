@@ -46,3 +46,8 @@ To deploy straight from the Google Cloud Shell:
 ```bash
 gcloud run deploy omnipark --source . --port 8080 --allow-unauthenticated --region us-central1
 ```
+
+## Demo
+[▶ Watch Demo on YouTube](https://youtu.be/sXvb0np38NI)
+
+[![Demo Video](https://img.youtube.com/vi/sXvb0np38NI/0.jpg)](https://youtu.be/sXvb0np38NI)
